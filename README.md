@@ -35,6 +35,8 @@ Shows daily page views over time.
 * **Y-axis:** Page Views
 * **File saved as:** `line_plot.png`
 
+  ![alt_img](https://github.com/rayyanm86/Page-View-Time-Series-Visualizer/blob/9668f2b7d15ec1d529ff687e7be9707b055191bc/LinePlot.png)
+
 ### 2. Bar Plot
 
 Displays average daily page views for each month grouped by year.
@@ -44,6 +46,8 @@ Displays average daily page views for each month grouped by year.
 * **Legend:** Months (January to December)
 * **File saved as:** `bar_plot.png`
 
+![alt_img](https://github.com/rayyanm86/Page-View-Time-Series-Visualizer/blob/9668f2b7d15ec1d529ff687e7be9707b055191bc/Bar%20Plot.png)
+
 ### 3. Box Plots
 
 Two box plots:
@@ -52,6 +56,7 @@ Two box plots:
 * **Month-wise:** Seasonal variation in page views across months.
 * **File saved as:** `box_plot.png`
 
+![alt_img](https://github.com/rayyanm86/Page-View-Time-Series-Visualizer/blob/9668f2b7d15ec1d529ff687e7be9707b055191bc/Box%20Plot.png)
 ---
 
 ## 🧹 Data Cleaning
